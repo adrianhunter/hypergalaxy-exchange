@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastclick": "^1.0.6",
+    "ismobilejs": "^0.4.0",
+    "mithril": "^0.2.5",
+    "moment": "^2.13.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-2": "^6.11.0",
+    "browserify-livescript": "^0.2.3",
+    "json-loader": "^0.5.4",
+    "livescript-loader": "^0.1.5",
+    "webpack": "^1.13.1"
+  }
+}

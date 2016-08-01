@@ -1,0 +1,173 @@
+{
+  "port": 4000,
+  "address": "0.0.0.0",
+  "serveHttpAPI": true,
+  "serveHttpWallet": true,
+  "version": "0.0.0",
+  "fileLogLevel": "info",
+  "logFileName": "logs.log",
+  "consoleLogLevel": "log",
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "lisk_test",
+    "user": null,
+    "password": "password",
+    "poolSize": 20,
+    "poolIdleTimeout": 30000,
+    "reapIntervalMillis": 1000,
+    "logEvents": [
+      "error"
+    ]
+  },
+  "api": {
+    "access": {
+      "whiteList": []
+    }
+  },
+  "peers": {
+    "list": [],
+    "blackList": [],
+    "options": {
+      "timeout": 4000
+    }
+  },
+  "forging": {
+    "force": true,
+    "secret": [
+      "gift infant rack normal dial stock various oil eyebrow interest club begin",
+      "plastic device typical salt silk skin pledge twist sense chef sheriff glare",
+      "uphold jaguar tackle proof sponsor slab super twelve remain cancel tower zero",
+      "cloth anchor swarm ordinary hospital omit pudding skull ahead swing gym young",
+      "dilemma rain pipe purchase rebel wrist grant half duck riot simple spot",
+      "photo trial giggle permit ocean ramp gorilla fancy gate series wrestle build",
+      "swallow uncover wine refuse message trap check jealous pluck stool ritual minute",
+      "pulp expand grocery click jealous above orphan rug cute life hungry about",
+      "meat become answer desert produce bless liquid mention hurdle soda develop slide",
+      "wagon trap fish shadow wire brother already tortoise elegant talent weapon air",
+      "brisk eight ritual travel move ice stick spin chest actress hello jelly",
+      "copy genuine bike throw lecture cradle morning have fresh used shine tortoise",
+      "uncover eyebrow cheese velvet wall attitude bubble hollow board enjoy whip virus",
+      "blast sing marine glow squirrel quit tomorrow candy violin despair disease check",
+      "change trip galaxy elite chair scan pluck elbow scheme fine caught stick",
+      "empower second judge toward index method pig camp wheel music rich clinic",
+      "uncover share board donate phrase bronze idea laundry village mad pig stadium",
+      "brief defy mushroom wash reduce pony clump lonely caution planet mirror later",
+      "visa increase laundry series belt mask hat believe flame hospital brother lumber",
+      "cattle income estate erase emotion style casino glass assist group discover sign",
+      "patient culture obey slam wild forum slot length foam scene youth wrap",
+      "dash spawn regret video lesson ride inch exchange combine milk endorse scorpion",
+      "fuel exile zone expect toss moon card myself base include ready annual",
+      "upon side bench exclude arrive sign swim quote cup expand coffee fatal",
+      "alpha clown general fork orchard artwork autumn inject decorate nature deny dolphin",
+      "business stairs lava artefact planet tribe skate cake bulb polar project deer",
+      "job desert gallery rice also addict sound seed snack fitness brave exercise",
+      "rail nerve assault depart guitar profit sing chat time icon wrong asthma",
+      "brick member loan assist insect party wine tragic mesh predict worry release",
+      "soon sun shock monkey goat distance exchange rifle parade area swear depend",
+      "club also extend club claim middle drip roof local soon toast ancient",
+      "pony artefact rural image theory gather buffalo blast square ranch harbor hurdle",
+      "plastic business ankle alpha blame half zero trophy field grace confirm myself",
+      "repeat wire maple crop jaguar account core catch truth tribe hollow bulb",
+      "come cement cream until duty weird warrior boring exact couple dream country",
+      "soul casino shrimp session dinosaur nurse badge picture october lift arrest energy",
+      "rate dog summer color open ripple crack odor employ before teach canyon",
+      "lion hand picture mule mixture fiction cheap bench cushion proof grow exotic",
+      "nerve world retire risk have fork happy burst mom write hard become",
+      "antique scrap conduct wrist tunnel prepare oil answer student subway canvas crop",
+      "turn crime box cram solid tower wrap attract assist erase gadget level",
+      "apology unit ethics drive risk agent intact butter also there kidney top",
+      "gaze joy either dance eight cinnamon flee depart wage churn middle daughter",
+      "trip rich easily tooth memory brush kit demise river silly trophy choose",
+      "fish pupil unit noise tail alone obtain night twice enroll tackle february",
+      "permit life goddess earth option crouch weird two firm spoon actual horse",
+      "crack above initial focus just clay exchange skull idea veteran blur dash",
+      "drink under fancy topic property current blossom wet pony turn that steak",
+      "fee image black struggle ecology purse slender cheap present hidden vehicle school",
+      "snack grace canal sauce cousin also sword cycle other plastic decrease churn",
+      "once wisdom urge timber sad link park present point heart scrub alter",
+      "spot join satisfy erode mango kind distance indicate segment sting forward picture",
+      "evolve sail lyrics dragon replace home castle more stay problem blur clinic",
+      "name section glad crazy person truth tent tent accident oven miracle mom",
+      "decrease proof cream gap genius rose cycle bench curious essence fiction leave",
+      "ribbon wish flock spoil sleep rude eight chase island balcony ordinary mean",
+      "off swallow since pride chapter maid rose green already cover endless bounce",
+      "engage warrior regular admit solution million wrist rescue cake coyote jewel guide",
+      "ridge glow until ethics city attitude culture mystery hidden kiwi cover mandate",
+      "age minimum chicken middle camp scale judge taxi vintage jelly autumn half",
+      "enable earth force round draft quote peanut brave scout name object nerve",
+      "sun grid avocado pudding about venue rely raw essence access south glad",
+      "picture mixture trophy machine sail bitter tower pigeon friend carpet proud stand",
+      "minor avocado bitter effort rice focus balance multiply supreme frequent broken ride",
+      "elevator city fame giggle current various hammer width tube blossom boat nurse",
+      "faculty rubber wreck kid maid neutral demand fork gesture bird vendor spatial",
+      "limb margin illness huge rebuild over juice roof tower charge crater explain",
+      "know excite tooth goose end biology symbol young climb know own famous",
+      "vibrant force wonder smoke couple meat soldier cake deliver brass senior win",
+      "artefact volume relief unaware awkward insect disease crowd want hurdle brisk battle",
+      "change wrong width arctic usage scene panda brief select thank tennis auto",
+      "repair fault pipe mango wool enable dial season news velvet arrest flower",
+      "brain puppy smart guide almost spider prepare excite decline horse track obtain",
+      "meat enter lyrics cereal resist toast domain night transfer border busy remind",
+      "fire sleep fault find dance garlic purity dice satisfy cry chest cover",
+      "sphere extra occur purpose onion slab egg learn slide demise report liar",
+      "banana wisdom message robot flag pelican penalty own dizzy grunt million rotate",
+      "turtle bargain volume name tail wife comfort sail congress divorce gadget opinion",
+      "bind arm elegant fence theory lemon advance innocent violin west disorder critic",
+      "crazy modify office future require often fade ten kick enrich slam leopard",
+      "build idle tonight regular wire mosquito surge document wolf decorate pizza suffer",
+      "sample into actress enough day absent artefact fly solution chapter media match",
+      "what waste fatal off kick scale inform simple critic faint nest ribbon",
+      "orchard rocket donate safe unknown bronze someone oil gesture heavy holiday select",
+      "senior suffer turn once celery era anger cheap replace chalk unaware interest",
+      "visual trip maple distance custom infant stumble gather film moon hen finger",
+      "struggle mercy upset curve actual shrug kiwi upon curve dolphin steel laundry",
+      "total holiday machine century rude spell blame brain lumber target oak trigger",
+      "profit neither mutual dial permit siren cricket awake wash slab blouse bulk",
+      "balcony awesome capital float naive pepper main burger lend knock donor yellow",
+      "relief comic member hold jazz defense arrange music renew monkey piece sample",
+      "merry avoid cat urban marble dance matter orbit build burden absurd valve",
+      "dismiss mandate switch employ write normal coconut angle caution install sentence wreck",
+      "cupboard often banana matrix learn perfect click frog soft knife impose finger",
+      "lunar unaware vapor swim group figure crane lounge lottery quit depth magic",
+      "honey suggest nominee weasel eight transfer learn split lesson dinner all debate",
+      "firm invest soon silk vicious volume kind soccer captain oven erase half",
+      "caught parent west unique magnet away floor approve snake tank portion upgrade",
+      "noodle anchor journey table brave liquid gym vessel swing grid surge quote",
+      "junk deposit broccoli garbage idle ginger sample busy ghost tuition subject local",
+      "arch inspire budget flame blade denial bronze various match height amazing school"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/lisk.key",
+      "cert": "./ssl/lisk.crt"
+    }
+  },
+  "dapp": {
+    "masterrequired": true,
+    "masterpassword": "CVkC2u3pspyv",
+    "autoexec": [
+      {
+        "params": [
+          "obey east curtain shallow erase refuse feature lake cereal lesson road glad",
+          "modules.full.json"
+        ],
+        "dappid": "8303543581833702068"
+      }
+    ]
+  },
+  "nethash": "198f2b61a8eb95fbeed58b8216780b68f697f26b849acf00c8c93bb9b24f783d"
+}
