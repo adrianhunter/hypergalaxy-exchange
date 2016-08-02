@@ -31,5 +31,6 @@
   	"contracts/withdrawaltransfer" : "./modules/contracts/withdrawaltransfer.js",
 	"contracts/token": "./modules/contracts/token.js",
     "contracts/BlockData": "./modules/contracts/BlockData.js",
+    "contracts/Message": "./modules/contracts/Message.js",
     "contracts/Exchange": "./modules/contracts/Exchange.js"
 }

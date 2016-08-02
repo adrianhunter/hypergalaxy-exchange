@@ -131,7 +131,15 @@
               	"on": {
                 	"t.id": "buys.transactionId"
               	}
-            }
+            },
+            {
+           "type": "left outer",
+           "table": "asset_messages",
+           "alias": "tm",
+           "on": {
+             "t.id": "tm.transactionId"
+           }
+         }
 		]
 	},
 	{
@@ -474,5 +482,30 @@
           "on_delete": "cascade"
         }
       ]
-	}
+  },
+  {
+  "table": "asset_messages",
+  "alias": "tm",
+  "type": "table",
+  "tableFields": [
+    {
+      "name": "message",
+      "type": "String",
+      "length": 320
+    },
+    {
+      "name": "transactionId",
+      "type": "String",
+      "length": 21
+    }
+],
+"foreignKeys": [
+  {
+    "field": "transactionId",
+    "table": "transactions",
+    "table_field": "id",
+    "on_delete": "cascade"
+  }
+]
+  }
 ]
